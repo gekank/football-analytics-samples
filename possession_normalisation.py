@@ -27,7 +27,7 @@ to 15th and Dani Alves from 49th to 9th — both Barcelona, 66% possession — w
 Sporting Gijón's defenders (43%) drop 15–17 places. The direction of the effect
 matches the published research.
 
-Author: Evgeny Telis
+Author: Evgenii Telis
 """
 
 from __future__ import annotations

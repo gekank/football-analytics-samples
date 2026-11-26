@@ -77,5 +77,5 @@ extracts, not the full system: the production code also covers data ingestion,
 match-level opposition analysis, set-piece breakdown, squad gap analysis and
 report rendering.
 
-Written by **Evgeny Telis** — football scout and data analyst.
+Written by **Evgenii Telis** — football scout and data analyst.
 [LinkedIn](https://www.linkedin.com/in/jacktelis/)

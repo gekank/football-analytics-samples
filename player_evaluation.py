@@ -31,7 +31,7 @@ Design notes
   away. Off-ball movement, physical condition and mentality are not in event data
   and the model says so instead of inventing a proxy.
 
-Author: Evgeny Telis
+Author: Evgenii Telis
 """
 
 from __future__ import annotations
